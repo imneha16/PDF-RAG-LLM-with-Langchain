@@ -15,9 +15,9 @@ Answer: The reported quarter is the fourth quarter of 2023, The quarter ended on
 7. What were Meta’s total costs and expenses for Q4 and the full year 2023?
 8. How much cash and marketable securities did Meta have on hand as of December 31, 2023?
 9. What were the main areas Meta invested in during 2023?
-10.How did the Family of Apps and Reality Labs perform in Q4 2023?
-11.How much free cash flow did Meta generate in Q4 and the full year 2023?
-12.Did Meta make any changes to its stock repurchase program or dividends for 2024?
-13.What risks did Meta highlight for 2024?
-14.What drove Meta’s revenue growth in Q4 2023?
-15.How did Reality Labs perform throughout 2023, and what’s Meta’s plan for 2024?
+10. How did the Family of Apps and Reality Labs perform in Q4 2023?
+11. How much free cash flow did Meta generate in Q4 and the full year 2023?
+12. Did Meta make any changes to its stock repurchase program or dividends for 2024?
+13. What risks did Meta highlight for 2024?
+14. What drove Meta’s revenue growth in Q4 2023?
+15. How did Reality Labs perform throughout 2023, and what’s Meta’s plan for 2024?
