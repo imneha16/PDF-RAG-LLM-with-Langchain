@@ -8,7 +8,7 @@ Workforce Change Calculation: (Old Value−New Value)/×100% (87314-67317)/87314
 Answer: By the end of 2023, Meta had 67,317 employees. In 2022, Meta had 87,314 employees, so Meta had a 22.9% decrease in 2023 compared to 2022.
 2. What is the report quarter, and when did it end?
 Answer: The reported quarter is the fourth quarter of 2023, The quarter ended on December 31, 2023.
-3. What were the key financial highlights this quarter(revenue, gross margin, operating expenses, operating margin, net income, and EPS. )?
+3. What were the key financial highlights this quarter(revenue, gross margin, operating expenses, operating margin, net income, and EPS?
 4. How much did Meta spend on restructuring for the whole year and Q4?
 5. What happened with Meta’s ad impressions and average price per ad in Q4 and for the whole year?
 6. What’s the revenue outlook for Q1 2024?
